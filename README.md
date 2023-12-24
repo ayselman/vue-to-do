@@ -1,2 +1,4 @@
 # vue-to-do
-vu ile yaptığım ilk to do uygulaması
+vu ile yaptığım ilk to do uygulaması 
+
+merhaba dünya
